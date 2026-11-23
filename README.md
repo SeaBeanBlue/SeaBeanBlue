@@ -56,7 +56,7 @@ I enjoy creating original artwork, exploring visual storytelling, and developing
 
 ### CONNECT
 
-[![Discord](https://img.shields.io/badge/Discord-30343B?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/6XuDuZ5rt)
+[![Discord](https://img.shields.io/badge/Discord-30343B?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
 <p align="center">
   <sub>Creating things worth remembering.</sub>
