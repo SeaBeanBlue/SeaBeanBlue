@@ -28,7 +28,7 @@ I enjoy creating original artwork, exploring visual storytelling, and developing
 ![HTML5](https://img.shields.io/badge/HTML5-30343B?style=flat-square&logo=html5&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-30343B?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-30343B?style=flat-square&logo=openjdk&logoColor=white)
-
+![avaScript](https://img.shields.io/badge/JavaScript-30343B?style=flat-square&logo=openjdk&logoColor=white)
 ### TOOLS & TECHNOLOGIES
 
 ![Blender](https://img.shields.io/badge/Blender-30343B?style=flat-square&logo=blender&logoColor=white)
